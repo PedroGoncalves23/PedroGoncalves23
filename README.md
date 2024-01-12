@@ -17,4 +17,4 @@
 
  
 ## Redes Sociais
-<a href="https://www.linkedin.com/in/pedrohgonçalves"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a href="mailto:seuendereço@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> 
+<a href="https://www.linkedin.com/in/pedrohgonçalves"> <img src="https://skillicons.dev/icons?i=linkedin" /> <a href="mailto:pedrogoncalves2306@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> 
