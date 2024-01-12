@@ -7,7 +7,7 @@
 - 🎓 Tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas pelo IFSP.
  </p>
  <p align="left"> 
-- 💻 Atualmente, estou focado em estudar e desenvolver habilidades em JavaScipt e React.
+- 💻 Atualmente, estou focado em estudar e desenvolver habilidades em JavaScript e React.
  </p>
 
 
