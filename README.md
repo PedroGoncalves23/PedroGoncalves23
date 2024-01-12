@@ -18,4 +18,4 @@
 </div>
 
 ## Redes Sociais
-- [LinkedIn](https://www.linkedin.com/in/pedrohgonçalves)
+- <i class="fa-brands fa-linkedin"></i>  [LinkedIn](https://www.linkedin.com/in/pedrohgonçalves)
