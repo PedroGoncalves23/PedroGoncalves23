@@ -19,5 +19,3 @@
 
 ## Redes Sociais
 - [LinkedIn](https://www.linkedin.com/in/pedrohgonçalves)
-
-![Snake animation](https://github.com/pedrogoncalves23/pedrogoncalves23/blob/output/github-contribution-grid-snake.svg)
