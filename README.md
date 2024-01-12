@@ -2,8 +2,13 @@
 
 
 <h3> Sobre mim</h3>
+
+<p align="left"> 
 - 🎓 Tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas pelo IFSP.
+ </p>
+ <p align="left"> 
 - 💻 Atualmente, estou focado em estudar e aprimorar minhas habilidades em React.
+ </p>
 
 
 <h3>Linguagens e Ferramentas</h3>
