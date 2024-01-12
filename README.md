@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá, eu sou o Pedro Henrique! 👋
 
-<!--
-**PedroGoncalves23/PedroGoncalves23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🎓 Tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas pelo IFSP.
+- 💻 Atualmente, estou focado em estudar e aprimorar minhas habilidades em React.
 
-Here are some ideas to get you started:
+## Linguagens e Ferramentas
+- 🔧 JavaScript, HTML, CSS
+- ⚙️ React, Node.js
+- 🚀 Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Estatísticas do GitHub
+<div>
+<a href="https://github.com/pedrogoncalves23">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogoncalves23&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogoncalves23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Redes Sociais
+- [LinkedIn](https://www.linkedin.com/in/pedrohgonçalves)
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
